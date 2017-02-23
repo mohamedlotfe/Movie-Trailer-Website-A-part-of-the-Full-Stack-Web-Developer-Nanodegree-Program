@@ -37,13 +37,13 @@ the poster and storyline about it
  <li>depending on previous  two steps  create our class called <strong>Movie</strong> and it's functions </li>
 </br>
 <h2>Creating objects from the class</h2>
-<li> create more objects from my class  <strong>Movie</strong>  to dispaly on HTML template 
+<li> create more objects from my class  <strong>Movie</strong>  to dispaly on HTML template <strong>fresh_tomatoes.html</strong> 
 </li>
 </br>
 
 
 <h1> How  this Project Work ?</h1>
-<li>that will find an Html page called <strong>index.html</strong> double click on it </li>
+<li>that will find an Html page called <strong>fresh_tomatoes.html</strong> double click on it </li>
 <li>will appear on ur broswer HTML page with many Poster</li>
 <li>Click on any Poster will appear a video which is <strong>the movie trailer</strong> </li>
 
